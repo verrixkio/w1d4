@@ -30,3 +30,4 @@ function actionWhenFound(indexPos) {cd
 }
 
 findWaldo(["Alice", "Bob", "Waldo", "Winston"], actionWhenFound);
+//ugh
